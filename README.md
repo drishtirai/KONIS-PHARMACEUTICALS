@@ -6,9 +6,9 @@ Konis Pharmaceuticals is a dynamic startup within the larger Konis Pharmaceutica
 
 
 
-Web Design               |    
+Web Design               |        
 :-------------------------:|
-![](https://github.com/drishtirai/KONIS-PHARMACEUTICALS/blob/Screenshot/website.jpg)|!
+![](https://github.com/drishtirai/Outlay/blob/Screenshot/website.jpg)|!
 ## 🎞️ App Screens
  Walk-through               
 :-------------------------:|
